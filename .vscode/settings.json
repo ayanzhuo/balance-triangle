@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "cmath": "cpp",
+        "array": "cpp",
+        "istream": "cpp",
+        "limits": "cpp",
+        "functional": "cpp",
+        "typeinfo": "cpp"
+    },
+    "cmake.sourceDirectory": "C:/Users/22480/Desktop/mini_blance/lib/ESPAsyncWebServer"
+}
